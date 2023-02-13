@@ -1,0 +1,27 @@
+{
+    "drunkenmonkey" :
+            [
+                {
+                    "imgleft" : "TRUE",
+                    "pjt_name" : "술취한원숭이",
+                    "pjt_detail" : "우리나라 주류 소비량을 분석하여 MZ세대를\n대상으로 전통주 홍보페이지를 기획했습니다.\n\n제품의 아름다운 디자인과 맛에\n초점을 두어 싱글페이지를 제작하였습니다.\n\n부트스트랩3을 활용하여\n약 1주만에 빠른 제작기간을 확보할 수 있었습니다.",
+                    "imgsrc"  : "./img/pjt1.png",
+                    "pjt_period" : "2022.11.20 - 2022.11.27",
+                    "pjt_git" : "https://github.com/chaesokim/project",
+                    "pjt_figma" : "",
+                    "pjt_notion" : ""
+                }
+            ],
+    "Ahndo" : 
+            [
+                {
+                    "pjt_name" : "Ahndo",
+                    "pjt_detail" : "그누보드를 활용하여 제과점의\n온라인 스토어를 빠르게 구축하였습니다.\n\n어쩌구저쩌구어쩌구저쩌구\n이러쿵저러쿵이러쿵저러쿵\n\n쌸라쌸라알라쑝",
+                    "imgsrc"  : "./img/pjt2.png",
+                    "pjt_period" : "2022.11.20 - 2022.11.27",
+                    "pjt_git" : "https://github.com/chaesokim/project",
+                    "pjt_figma" : "",
+                    "pjt_notion" : ""
+                }
+            ]
+}

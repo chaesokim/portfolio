@@ -1,0 +1,53 @@
+/* HOME 상단 배너 CSS */
+.flow-text {
+    display: flex;
+    flex: 0 0 auto;
+    white-space: nowrap;
+    overflow: hidden;
+    transition: 0.3s;
+    font-size: 10rem;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .flow-text:hover {
+    color: black !important;
+    -webkit-text-stroke: 1px #ffffff;
+  }
+  
+  .flow-text:hover .flow-wrap {
+    -webkit-animation-play-state: paused;
+            animation-play-state: paused;
+    cursor: pointer;
+  }
+  
+  .flow-wrap {
+    -webkit-animation: textLoop 10s linear infinite;
+            animation: textLoop 10s linear infinite;
+    padding-right: 1.4881vw;
+  }
+  
+  @-webkit-keyframes textLoop {
+    0% {
+      transform: translate3d(0, 0, 0);
+    }
+    100% {
+      transform: translate3d(-100%, 0, 0);
+    }
+  }
+  
+  @keyframes textLoop {
+    0% {
+      transform: translate3d(0, 0, 0);
+    }
+    100% {
+      transform: translate3d(-100%, 0, 0);
+    }
+  }
+  #myjob {
+    transform: translateY(2300%);
+  }
+  
+  .bigtitle{
+    font-size: 100px;
+  }

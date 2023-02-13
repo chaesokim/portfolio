@@ -1,0 +1,16 @@
+{ 
+  "naviDBjson" : 
+  [{
+    "naviText" : "ABOUT",
+    "naviLink" : "#about"
+  },
+  {
+    "naviText" : "PROJECT",
+    "naviLink" : "#drunkenmonkey"
+                  },
+  {
+    "naviText" : "CONTACT",
+    "naviLink" : "#contact"
+                  }
+  ]
+}
