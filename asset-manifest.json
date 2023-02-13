@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/chaesokim/chaesokim.github.io.git/static/css/main.5676e076.css",
+    "main.js": "/chaesokim/chaesokim.github.io.git/static/js/main.b8ab88c1.js",
+    "static/js/787.a2cb61a6.chunk.js": "/chaesokim/chaesokim.github.io.git/static/js/787.a2cb61a6.chunk.js",
+    "static/media/swiper1.png": "/chaesokim/chaesokim.github.io.git/static/media/swiper1.e8d9eadf98592282a9cc.png",
+    "index.html": "/chaesokim/chaesokim.github.io.git/index.html",
+    "main.5676e076.css.map": "/chaesokim/chaesokim.github.io.git/static/css/main.5676e076.css.map",
+    "main.b8ab88c1.js.map": "/chaesokim/chaesokim.github.io.git/static/js/main.b8ab88c1.js.map",
+    "787.a2cb61a6.chunk.js.map": "/chaesokim/chaesokim.github.io.git/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5676e076.css",
+    "static/js/main.b8ab88c1.js"
+  ]
+}
